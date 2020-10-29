@@ -1,0 +1,24 @@
+.btn-grey {
+  background-color: rgb(120,121,126);
+  color: rgb(255,224,16);
+  padding: 10px;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+
+.btn-grey:hover {
+  background-color: rgb(255,224,16);
+  color: rgb(120,121,126);
+}
+
+
+.card-btn {
+  color: rgb(59,63,67);
+  text-shadow: 0 0 3px rgb(59,63,67);
+  transition: 0.3s;
+}
+
+.card-btn:hover {
+  color:rgb(255,224,16);
+  text-shadow: 0 0 3px rgb(255,224,16);;
+}
